@@ -9,5 +9,4 @@ cv_format: rendercv # options: rendercv, jsonresume
 description: Click the button on the right to view a pdf version of the CV.
 toc:
   sidebar: left
-  collapse: expanded
 ---
