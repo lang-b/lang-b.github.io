@@ -24,8 +24,7 @@ cv:
   sections:
     Education:
       - institution: Adelaide University
-        location: Adelaide, South Australia, Australia
-        url: https://www.adelaide.edu.au/
+        location: Adelaide, Australia
         area: Applied Mathematics
         studyType: MPhil
         start_date: 2025
@@ -34,10 +33,10 @@ cv:
         courses: ""
         highlights:
           - Collecting and analysing real-world network topologies for novel algorithm application.
-          - Scholarships: AMSI Summer School Travel Grant (2025), Research Training Program Stipend (2025), George Fraser Supplementary Scholarship (2025)
+          - "Scholarships: AMSI Summer School Travel Grant (2025), Research Training Program Stipend (2025), George Fraser Supplementary Scholarship (2025)""
 
       - institution: The University of Adelaide
-        location: Adelaide, South Australia, Australia
+        location: Adelaide, Australia
         area: Mechanical and Aerospace Engineering (Honours) with Applied Mathematics
         studyType: Bachelor (Double Degree)
         start_date: 2018
@@ -46,10 +45,10 @@ cv:
         courses: ""
         highlights:
           - First-Class Honours
-          - Scholarships: University of Adelaide Principal's Scholarship (2018), Joseph Miller Travel Scholarship in Engineering (2019, SEM 2)
+          - "Scholarships: University of Adelaide Principal's Scholarship (2018), Joseph Miller Travel Scholarship in Engineering (2019, SEM 2)""
 
       - institution: The University of Toronto
-        location: Toronto, Ontario, Canada
+        location: Toronto, Canada
         area: ""
         studyType: Semester Abroad
         start_date: 2019
@@ -124,7 +123,6 @@ cv:
           - "Rhodes Scholarship Selection Committee for SA"
         date: 2023
         awarder: Rhodes Scholarship Selection Committee for SA
-        url: ""
         summary: One of five finalists for the Rhodes Scholarship in SA. Selected based on written application, academic achievements, and demonstrations of leadership and contribution to community.
 
       - title: Valedictorian – School of Electrical and Mechanical Engineering
@@ -167,7 +165,7 @@ cv:
           - Robertson, W
         publisher: "Proceedings of the 19th International Conference on Intelligent Unmanned Systems"
         releaseDate: 2024-07-05
-        url: https://doi.org/10.1007/978-981-97-6591-1_17_2
+        url: https://doi.org/10.1007/978-981-97-6591-1_17
         summary: Investigation of electrodynamic dust shielding as a method to improve the resilience of a lunar rover drivetrain to regolith, presented at ICIUS 2023.
 
     Skills:
