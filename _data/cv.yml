@@ -167,6 +167,16 @@ cv:
         url: https://doi.org/10.1007/978-981-97-6591-1_17
         summary: Investigation of electrodynamic dust shielding as a method to improve the resilience of a lunar rover drivetrain to regolith, presented at ICIUS 2023.
 
+      - title: "Robustness Analysis of Australia's Internet Using a Multilayer Network Model"
+        authors:
+          - Lang, B
+          - Roughan, M
+          - Ye, B
+        publisher: "arXiv"
+        releaseDate: 2026-06-17
+        url: https://arxiv.org/abs/2606.18737
+        summary: Developed a multilayer network model of Australia's Internet, along with an analysis of Shared Risk Link Group (SRLG) failures.
+
     Skills:
       - name: Programming Languages
         icon: fa-solid fa-hashtag
