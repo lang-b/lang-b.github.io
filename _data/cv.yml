@@ -1,20 +1,9 @@
 cv:
   name: Benjamin Lang
-  label: Master's Student
+  position: Master's Student
   email: benjamin [dot] lang [at] edu [dot] au
-  location: Adelaide, SA
-  image: ""
-  # summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
 
-  # social_networks:
-  #   - network: X
-  #     username: AlbertEinstein
-  #   - network: GitHub
-  #     username: example
-  #   - network: LinkedIn
-  #     username: example
-
-  address:
+  location:
     street: Adelaide University
     # city: San Francisco
     region: South Australia
@@ -28,7 +17,7 @@ cv:
         area: Applied Mathematics
         studyType: MPhil
         start_date: 2025
-        end_date: Present
+        end_date: present
         score: "GPA: 7.0/7.0; WAM: 97/100"
         courses: ""
         highlights:
@@ -61,7 +50,7 @@ cv:
         position: Graduate Data Scientist
         location: Adelaide, SA
         start_date: 2024
-        end_date: Present
+        end_date: present
         summary: ""
         highlights:
           - Developing and integrating current methods for multi-modal fusion of different data sources, utilising open-source tools to create a data lakehouse.
@@ -71,7 +60,7 @@ cv:
         position: Tutor
         location: Adelaide, SA
         start_date: 2021
-        end_date: Present
+        end_date: present
         highlights:
           - Systems Engineering and Industry Practice - tutoring, report and assignment marking (SEM 1 2021 – SEM 2 2025)
           - Data Skills for Scientists - report marking (SEM 1 2026)
@@ -101,7 +90,7 @@ cv:
         position: Secretary/Committee Member
         location: Adelaide, SA
         start_date: 2018-09-01
-        end_date: Present
+        end_date: present
         summary: Involved in founding the Old Concordians Soccer Club in 2019. Current acting secretary, facilitating meetings and organising club correspondence.
         highlights:
           - Organising club events and managing training and match-day logistics across four teams.
