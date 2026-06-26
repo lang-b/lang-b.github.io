@@ -25,8 +25,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). 
+Hi there! Welcome to my page. I'm a current Master's student at Adelaide University, under the supervison of <a href="https://roughan.info/about/">Prof Matthew Roughan</a>, <a href="https://researchers.adelaide.edu.au/profile/ben.ye">Dr Ben Ye</a>, and <a href="https://researchers.adelaide.edu.au/profile/hung.nguyen">Prof Hung Nguyen</a>. My research sits within the realms of applied math, network science and data science. My Master's research specifically focuses on Australia's Internet: investigating the structure, resilience, and diversity of the network, such that the network can withstand failures and disruptions.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I completed my undergrad in Mechanical & Aerospace Engineering, with a double degree in Mathematics, finishing in 2022. Outside of academics, I play music, soccer, and run marathons. If any of our research interests align, or you just want to chat, feel free to reach out!
