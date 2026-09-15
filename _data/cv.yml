@@ -31,7 +31,7 @@ cv:
         score: "GPA: 7.0/7.0; WAM: 97/100"
         courses: ""
         highlights:
-          - Collecting and analysing real-world network topologies for novel algorithm application.
+          - Creating a multilayer model of Australia's Internet.
           - "Scholarships: AMSI Summer School Travel Grant (2025), Research Training Program Stipend (2025), George Fraser Supplementary Scholarship (2025)"
 
       - institution: The University of Adelaide
@@ -66,15 +66,17 @@ cv:
           - Developing and integrating current methods for multi-modal fusion of different data sources, utilising open-source tools to create a data lakehouse.
           - Creating isolated applications for triplet extraction from text using local LLMs and prompt engineering.
 
-      - company: The University of Adelaide
-        position: Tutor
+      - company: Adelaide University
+        position: Tutor/Marker
         location: Adelaide, SA
         start_date: 2021
         end_date: present
         highlights:
-          - Systems Engineering and Industry Practice - tutoring, report and assignment marking (SEM 1 2021 – SEM 2 2025)
-          - Data Skills for Scientists - report marking (SEM 1 2026)
-          - Data Science Research Project Part A - report marking (SEM 1 2026)
+          - Systems Engineering and Industry Practice --- tutoring and report marking (SEM 1 2021 -- SEM 2 2025)
+          - Data Skills for Scientists --- report marking (SEM 1 2026)
+          - Data Science Research Project Part A --- report marking (SEM 1 2026)
+          - Engineering Modelling 1 --- tutoring and assignment marking (SEM 2 2026)
+          - Engineering Modelling 2 --- assignment marking (SEM 2 2026)
 
       - company: BAE Systems
         position: Graduate Systems Engineer
@@ -84,7 +86,7 @@ cv:
         highlights:
           - Assisted with major design reviews and upgrades of Defence projects.
           - Completion of configuration management database migrations.
-          - Developed interactive budgets for Space, Weight, Power, and Cooling management across multiple worksites.
+          - Developed interactive budgets for Space, Weight, Power, and Cooling (SWAP-C) management across multiple worksites.
 
       - company: Defence Science and Technology Group (DSTG)
         position: STEM Cadet
@@ -177,6 +179,18 @@ cv:
         url: https://arxiv.org/abs/2606.18737
         summary: Developed a multilayer network model of Australia's Internet, along with an analysis of Shared Risk Link Group (SRLG) failures.
 
+
+    Conference Presentations:
+      - title: MODSIM 2025
+        location: Adelaide, Australia
+        date: Dec 2025
+        summary: Oral Presentation --- Network analysis of Australian Internet traffic dynamics.
+
+      - title: NetSciX 2026
+        location: Auckland, New Zealand
+        date: Feb 2026
+        summary: Poster --- Reliability assessment of Australia’s Internet infrastructure using a multilayer network model.
+
     Skills:
       - name: Programming Languages
         icon: fa-solid fa-hashtag
@@ -215,7 +229,7 @@ cv:
     #     icon: fa-solid fa-envelope
 
     # Projects:
-    #   - name: Quantum Computing
+    #   - name: University of Adelaide --- Group Honours Project
     #     summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
     #     highlights:
     #       - Quantum Teleportation
