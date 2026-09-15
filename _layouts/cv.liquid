@@ -331,6 +331,18 @@ layout: default
           </div>
         {% endif %}
 
+        <!-- Conference Presentations -->
+        {% if site.data.resume.conferencePresentations.size > 0 %}
+          <a class="anchor" id="conference-presentations"></a>
+          <div class="card mt-3 p-3">
+            <h3 class="card-title font-weight-medium">Conference Presentations</h3>
+            <div>
+              {% assign entries = site.data.resume.conferencePresentations %}
+              {% include cv/conference-presentations.liquid %}
+            </div>
+          </div>
+        {% endif %}
+
         <!-- Skills -->
         {% if site.data.resume.skills.size > 0 %}
           <a class="anchor" id="skills"></a>

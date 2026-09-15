@@ -179,8 +179,7 @@ cv:
         url: https://arxiv.org/abs/2606.18737
         summary: Developed a multilayer network model of Australia's Internet, along with an analysis of Shared Risk Link Group (SRLG) failures.
 
-
-    Conference Presentations:
+    ConferencePresentations:
       - title: MODSIM 2025
         location: Adelaide, Australia
         date: Dec 2025
